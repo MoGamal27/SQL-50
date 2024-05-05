@@ -3,7 +3,7 @@
 
 /* 
 CONTEXT:
-Query the Name of any student in STUDENTS who scored higher than  Marks
+Query the Name of any student in STUDENTS who scored higher than 75 Marks
 
 
 OUTPUT:
